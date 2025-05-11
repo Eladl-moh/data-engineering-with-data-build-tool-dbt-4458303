@@ -1,0 +1,1 @@
+Select * from paring_violation_codes
